@@ -11,10 +11,15 @@ The overall attrition rate in the organization stands at 16.12%, with 237 employ
 ![](https://github.com/smzd/IBM_Employee_Attrition_Analysis/blob/main/Resourses/Dashboard.png) 
 
 •	Male Attrition: 150 male employees, constituting 17% of the male workforce, left the company.
+
 •	Female Attrition: 87 female employees, accounting for 14.80% of the female workforce, left the company.
+
 •	The RD department has the highest attrition rate, indicating potential issues that require attention. 133 employees, representing 56% of the RD workforce, left the company.
+
 •	Job roles with low job satisfaction include laboratory technicians, research scientists, and sales executives. 
+
 •	Employees with backgrounds in life sciences experienced 89 attritions, while those in the medical field saw 63 attritions
+
 •	High number of attrition is detected in the ages between 25-34 accounted for 112. also employees aged 35-44 accounted for 51 attritions.
 
                                                 #Summary
